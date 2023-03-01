@@ -1,2 +1,2 @@
 # sql-practice
-This repository contains SQL commands and concepts to review and learn SQL/PostgreSQL in PGAdmin
+This repository contains code and resources for practicing SQL, which is a widely-used database programming language. It covers a wide range of SQL topics, including data querying, filtering, sorting, grouping, joining, and subqueries. The examples and exercises presented in this repository are meant to provide practical insights into solving problems with SQL in various contexts, such as business intelligence, data analytics, and web development. Whether you're a beginner or an experienced practitioner, this repository aims to provide useful information and tools for your SQL practice and learning journey.
